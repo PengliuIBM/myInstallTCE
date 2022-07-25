@@ -1,1 +1,3 @@
 # myInstallTCE
+
+test install TCE.
